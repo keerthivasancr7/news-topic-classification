@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.13.7",
+  "torch": "2.14.1",
+  "maximum_epochs": 12,
+  "selected_epoch": 9,
+  "linear_training_seconds": 6.799279165999906,
+  "neural_training_seconds": 19.723415500004194,
+  "total_seconds": 45.71918358300172
+}

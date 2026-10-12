@@ -1,0 +1,10 @@
+{
+  "train": {
+    "url": "https://raw.githubusercontent.com/mhjabreel/CharCnn_Keras/master/data/ag_news_csv/train.csv",
+    "sha256": "76a0a2d2f92b286371fe4d4044640910a04a803fdd2538e0f3f29a5c6f6b672e"
+  },
+  "test": {
+    "url": "https://raw.githubusercontent.com/mhjabreel/CharCnn_Keras/master/data/ag_news_csv/test.csv",
+    "sha256": "521465c2428ed7f02f8d6db6ffdd4b5447c1c701962353eb2c40d548c3c85699"
+  }
+}

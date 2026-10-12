@@ -1,0 +1,26 @@
+{
+  "input_rows": 120000,
+  "empty_texts": 0,
+  "duplicate_rows": 151,
+  "conflicting_texts": 22,
+  "retained_rows": 119827,
+  "training_rows_removed_for_test_text_or_title_overlap": 1171,
+  "train": {
+    "rows": 94924,
+    "class_counts": {
+      "1": 23845,
+      "2": 23730,
+      "3": 23714,
+      "4": 23635
+    }
+  },
+  "validation": {
+    "rows": 23732,
+    "class_counts": {
+      "1": 5961,
+      "2": 5933,
+      "3": 5929,
+      "4": 5909
+    }
+  }
+}
