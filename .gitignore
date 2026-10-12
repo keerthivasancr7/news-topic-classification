@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/
+outputs/
+.DS_Store
+ML_project_submission.zip
